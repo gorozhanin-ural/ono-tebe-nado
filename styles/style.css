@@ -2,6 +2,7 @@
   margin: 0 auto;
   font-size: 18px;
   color: #000;
+  max-width: 1440px;
 }
 
 .aligned-text_center {
@@ -74,6 +75,7 @@
 .header__link {
   text-decoration: none;
   border-bottom: 1px solid currentColor;
+  white-space: nowrap;
 }
 
 .header__link_active {
@@ -114,7 +116,7 @@
   justify-content: flex-end;
   padding-top: 10px;
   align-items: center;
-  column-gap: 70px;
+  column-gap: 78px;
   position: relative;
   z-index: 1;
 }
