@@ -9,4 +9,4 @@
 * БЭМ
 
 -----
-[Demo](https://ono-tebe-nado.na4u.ru/)
+[Demo](https://ono-tebe-nado.nothingisreal.ru/)
